@@ -6,6 +6,7 @@ package com.sgyz.base;
 public class BaseUrl {
     //slb 基础部分的url
     public static final String SLBURL="GETlb.api.qcloud.com/v2/index.php?";
+    public static final String BASESLBURL="https://lb.api.qcloud.com/v2/index.php?";
     //uhost
 
     //mysql
