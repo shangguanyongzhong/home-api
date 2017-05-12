@@ -8,7 +8,7 @@ public class BaseUrl {
     public static final String SLBURL="GETlb.api.qcloud.com/v2/index.php?";
     //uhost
 
-    //
+    //mysql
 
 
 
